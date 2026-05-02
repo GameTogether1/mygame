@@ -609,6 +609,17 @@
         "category": "角色扮演",
         "size": "7GB",
         "rating": 8.7
+      },
+      {
+        "id": "BSMN",
+        "name": "巴士模拟",
+        "image": "https://pic1.imgdb.cn/item/69f5ea1142ba822577eb84f4.jpg",
+        "thunderLink": "https://pan.xunlei.com/s/VOrcR4U_q6uCJTSjLEMuxiBsA1?pwd=fhr5#",
+        "quarkLink": "https://pan.quark.cn/s/21f63b739a20",
+        "description": "驾驶巴士，安全准时地将乘客送达目的地。",
+        "category": "模拟",
+        "size": "46.5GB",
+        "rating": 8.2
       }
     ],
     "C": [
@@ -3008,6 +3019,17 @@
         "category": "模拟",
         "size": "117.4MB",
         "rating": 8.6
+      },
+      {
+        "id": "HXYRD",
+        "name": "远日点",
+        "image": "https://pic1.imgdb.cn/item/69f5ea1242ba822577eb84f6.jpg",
+        "thunderLink": "https://pan.xunlei.com/s/VOrJitFlgFBuKBYzzn-ZduvHA1?pwd=gc84#",
+        "quarkLink": "https://pan.quark.cn/s/0a0d4c87b25b",
+        "description": "在火星的极端环境中生存，探索未知的奥秘。",
+        "category": "生存",
+        "size": "25.2GB",
+        "rating": 8.0
       }
     ],
     "I": [],
@@ -4854,6 +4876,28 @@
         "category": "角色扮演",
         "size": "2.1GB",
         "rating": 6.5
+      },
+      {
+        "id": "MM：NXDR",
+        "name": "姆明：暖心冬日",
+        "image": "https://pic1.imgdb.cn/item/69f5ea1242ba822577eb84f5.jpg",
+        "thunderLink": "https://pan.xunlei.com/s/VOrJiLzq5Z04UaxAqcwQJtxBA1?pwd=j77n#",
+        "quarkLink": "https://pan.quark.cn/s/999920651658",
+        "description": "与姆明一起度过温馨的冬日，体验治愈的冒险。",
+        "category": "冒险",
+        "size": "3.4GB",
+        "rating": 9.3
+      },
+      {
+        "id": "MY1",
+        "name": "民谣",
+        "image": "https://pic1.imgdb.cn/item/69f5ea1242ba822577eb84f7.jpg",
+        "thunderLink": "https://pan.xunlei.com/s/VOrJib1sMIbuuCCL8PcJ-3fGA1?pwd=zdqk#",
+        "quarkLink": "https://pan.quark.cn/s/95b229900a7f",
+        "description": "聆听动人的民谣，体验一段充满诗意的旅程。",
+        "category": "冒险",
+        "size": "16.6GB",
+        "rating": 8.2
       }
     ],
     "N": [
@@ -7673,6 +7717,17 @@
         "category": "策略",
         "size": "15.9GB",
         "rating": 6.8
+      },
+      {
+        "id": "TLKJYT",
+        "name": "泰拉科技魇团",
+        "image": "https://pic1.imgdb.cn/item/69f5ea1242ba822577eb84f8.jpg",
+        "thunderLink": "https://pan.xunlei.com/s/VOrcRLrWIgKGTjgRRdx9XwdXA1?pwd=uc7v#",
+        "quarkLink": "https://pan.quark.cn/s/1c240da82f05",
+        "description": "建造独特的载具，在泰拉星球上收集资源并击败敌人。",
+        "category": "模拟",
+        "size": "6.2GB",
+        "rating": 7.8
       }
     ],
     "U": [],
@@ -9716,6 +9771,28 @@
         "category": "射击",
         "size": "6.7GB",
         "rating": 7.9
+      },
+      {
+        "id": "YJDDGGS",
+        "name": "一家店多个故事",
+        "image": "https://pic1.imgdb.cn/item/69f5ea1a42ba822577eb84fa.jpg",
+        "thunderLink": "https://pan.xunlei.com/s/VOrcS_mIKbuPMcIsiAYqxNHlA1?pwd=zygw#",
+        "quarkLink": "https://pan.quark.cn/s/67e8f938cce9",
+        "description": "经营一家店铺，体验多个交织的温馨故事。",
+        "category": "模拟",
+        "size": "2.9GB",
+        "rating": 8.6
+      },
+      {
+        "id": "YYDBZHQ",
+        "name": "晕晕电波症候群",
+        "image": "https://pic1.imgdb.cn/item/69f5ea1a42ba822577eb84fb.jpg",
+        "thunderLink": "https://pan.xunlei.com/s/VOrJiYUr5865QToEnNBjYTacA1?pwd=96fe#",
+        "quarkLink": "https://pan.quark.cn/s/b7a5d25b8f88",
+        "description": "在异常电波的影响下，极致节奏体验",
+        "category": "模拟",
+        "size": "2.8GB",
+        "rating": 7.0
       }
     ],
     "Z": [
